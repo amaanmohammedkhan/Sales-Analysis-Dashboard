@@ -1,5 +1,8 @@
 # Sales Data Analysis Dashboard
 
+<img width="1356" height="748" alt="image" src="https://github.com/user-attachments/assets/c1c3ef69-044a-409d-add3-058788e02889" />
+
+
 **Developer:** Amaan Mohammed Khan
 
 An end-to-end sales analytics project: raw retail data is cleaned with Python, loaded into a MySQL database, analyzed with SQL, and visualized in an interactive Power BI dashboard connected live to the database.
