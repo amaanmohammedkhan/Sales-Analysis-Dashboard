@@ -1,6 +1,7 @@
 # Sales Data Analysis Dashboard
 
-<img width="1356" height="748" alt="image" src="https://github.com/user-attachments/assets/c1c3ef69-044a-409d-add3-058788e02889" />
+<img width="1382" height="773" alt="image" src="https://github.com/user-attachments/assets/9fcec9d6-2e8e-4303-b684-61f5a9815f33" />
+
 
 
 **Developer:** Amaan Mohammed Khan
